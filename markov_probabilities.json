@@ -1,0 +1,48 @@
+{
+  "gentle motion": {
+    "dominant": {
+      "tonic": 1.0
+    },
+    "tonic": {
+      "predominant": 1.0
+    },
+    "predominant": {
+      "dominant": 1.0
+    }
+  },
+  "tension / drive": {
+    "dominant": {
+      "tonic": 1.0
+    },
+    "tonic": {
+      "dominant": 1.0
+    },
+    "predominant": {
+      "dominant": 1.0
+    }
+  },
+  "mixed": {
+    "predominant": {
+      "dominant": 1.0
+    },
+    "dominant": {
+      "tonic": 1.0
+    },
+    "tonic": {
+      "dominant": 0.45673758865248226,
+      "predominant": 0.5432624113475177
+    }
+  },
+  "stable / floating": {
+    "dominant": {
+      "tonic": 1.0
+    },
+    "tonic": {
+      "dominant": 0.5215453194650818,
+      "predominant": 0.4784546805349183
+    },
+    "predominant": {
+      "dominant": 1.0
+    }
+  }
+}

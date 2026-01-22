@@ -1,0 +1,54 @@
+{
+  "stable / floating": {
+    "dominant|tonic": {
+      "dominant": 0.4930304594734125,
+      "predominant": 0.5069695405265875
+    },
+    "tonic|dominant": {
+      "tonic": 1.0
+    },
+    "tonic|predominant": {
+      "dominant": 1.0
+    },
+    "predominant|dominant": {
+      "tonic": 1.0
+    }
+  },
+  "mixed": {
+    "tonic|predominant": {
+      "dominant": 1.0
+    },
+    "predominant|dominant": {
+      "tonic": 1.0
+    },
+    "dominant|tonic": {
+      "dominant": 0.5113363105462041,
+      "predominant": 0.48866368945379596
+    },
+    "tonic|dominant": {
+      "tonic": 1.0
+    }
+  },
+  "gentle motion": {
+    "dominant|tonic": {
+      "predominant": 1.0
+    },
+    "tonic|predominant": {
+      "dominant": 1.0
+    },
+    "predominant|dominant": {
+      "tonic": 1.0
+    }
+  },
+  "tension / drive": {
+    "dominant|tonic": {
+      "dominant": 1.0
+    },
+    "tonic|dominant": {
+      "tonic": 1.0
+    },
+    "predominant|dominant": {
+      "tonic": 1.0
+    }
+  }
+}
